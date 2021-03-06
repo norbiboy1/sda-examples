@@ -17,6 +17,7 @@
         <module>module9-selenium</module>
         <module>module11-api-testing</module>
         <module>module10-appium</module>
+        <module>go-rest</module>
     </modules>
 
     <properties>
